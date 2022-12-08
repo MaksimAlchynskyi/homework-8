@@ -1,0 +1,116 @@
+* {
+	box-sizing: border-box;
+}
+
+.all {
+	display: flex;
+   justify-content: space-around;
+}
+
+
+
+.flex-container {
+	border: 5px solid white;
+   flex-wrap: wrap;
+	background-color: orange;
+	width: 150px;
+	height: 50px;
+}
+
+.flex-container-1 {
+	border: 5px solid white;
+   flex-wrap: wrap;
+	background-color: orange;
+	width: 50px;
+	height: 150px;
+	
+}
+
+.flex-container-2 {
+	border: 5px solid white;
+   flex-wrap: wrap;
+	background-color: orange;
+	width: 100px;
+	height: 150px;
+	margin-top: -150px;
+	margin-left: 50px;
+}
+
+.flex {
+	display: inline-block;
+}
+
+
+
+.column-1 {
+	border: 5px solid white;
+	flex-wrap: wrap;
+	background-color: orange;
+	width: 150px;
+	height: 50px;
+}
+
+.column-2 {
+	border: 5px solid white;
+	flex-wrap: wrap;
+	background-color: orange;
+	width: 50px;
+	height: 150px;
+}
+
+.column-3 {
+	border: 5px solid white;
+	flex-wrap: wrap;
+	background-color: orange;
+	width: 50px;
+	height: 150px;
+}
+
+.column-4 {
+	border: 5px solid white;
+	flex-wrap: wrap;
+	background-color: orange;
+	width: 50px;
+	height: 150px;
+}
+
+.column {
+	display: flex;
+}
+
+
+.rectangle-1 {
+	border: 5px solid white;
+	flex-wrap: wrap;
+	background-color: orange;
+	width: 150px;
+	height: 50px;
+}
+
+.rectangle-2 {
+	border: 5px solid white;
+	flex-wrap: wrap;
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+}
+
+.rectangle-3 {
+	border: 5px solid white;
+	flex-wrap: wrap;
+	background-color: orange;
+	width: 50px;
+	height: 100px;
+}
+
+.rectangle-4 {
+	border: 5px solid white;
+	flex-wrap: wrap;
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+}
+
+.rectangle {
+	display: flex;
+}
